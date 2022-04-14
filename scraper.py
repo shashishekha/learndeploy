@@ -100,7 +100,7 @@ def search_and_download(search_term: str, driver_path: str, target_path='./image
 # Step 5 : put it inside the same folder of this code
 
 
-DRIVER_PATH = r'C:\Users\HP\Desktop\ImageScrapper\ImageScrapper\chromedriver1.exe'
+DRIVER_PATH = r'C:\Users\HP\Desktop\ImageScrapper\ImageScrapper\chromedriver.exe'
 search_term = 'tourist place'
 # num of images you can pass it from here  by default it's 10 if you are not passing
 #number_images = 50
